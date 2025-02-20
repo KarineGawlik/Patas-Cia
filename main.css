@@ -1,0 +1,61 @@
+body {
+    font-family: "Roboto Flex", serif;
+}
+
+.navbar-brand {
+    font-family: "Henny Penny", serif;
+    color: #fff;
+    font-size: 36px;
+}
+
+h2,
+h3 {
+    font-family: "Henny Penny", serif;
+    color: orange;
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+
+.navbar {
+    background-color: rgb(95, 151, 255);
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.nav .nav-link.active {
+    background-color: #fff;
+    color: rgb(95, 151, 255);
+}
+
+.nav .nav-link {
+    color: rgb(5, 5, 112);
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+#sobre,
+#produtos {
+    background-color: rgb(255, 245, 245);
+}   
+
+.nav-produtos .nav-link.active,
+#fale-conosco button {
+    background-color: rgb(95, 151, 255);
+    color: #fff;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+    padding-left: 10px;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+    
